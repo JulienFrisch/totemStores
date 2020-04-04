@@ -1,0 +1,6 @@
+{"stores":
+  [
+    {"category":"restaurant","store":"Dwich","subscribed":"true","numberOfPoints":7,"earnedPoints":1},
+    {"category": "hairdresser", "store": "Hair de rien", "subscribed": "false", "numberOfPoints": 12, "earnedPoints": 0}
+  ]
+}
