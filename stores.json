@@ -7,6 +7,6 @@
     {"category": "hairdresser", "store": "Hair coiffure", "subscribed": "false", "numberOfPoints": 10, "earnedPoints": 0},
     {"category": "florist", "store": "Kaloupile", "subscribed": "false", "numberOfPoints": 8, "earnedPoints": 0},
     {"category": "restaurant", "store": "Max Kebab", "subscribed": "false", "numberOfPoints": 8, "earnedPoints": 0},
-    {"category": "drugstore", "store": "Pharma Godefroy", "subscribed": "false", "numberOfPoints": 8, "earnedPoints": 0},
+    {"category": "drugstore", "store": "Pharma Godefroy", "subscribed": "false", "numberOfPoints": 8, "earnedPoints": 0}
   ]
 }
