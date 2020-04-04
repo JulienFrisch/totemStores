@@ -1,9 +1,12 @@
 {"stores":
   [
     {"category":"restaurant","store":"Dwich","subscribed":"true","numberOfPoints":7,"earnedPoints":1},
+    {"category":"restaurant","store":"La Pateterie","subscribed":"true","numberOfPoints":8,"earnedPoints":2},
     {"category": "hairdresser", "store": "Hair de rien", "subscribed": "false", "numberOfPoints": 12, "earnedPoints": 0},
-    {"category": "hairdresser", "store": "Hair de rien", "subscribed": "false", "numberOfPoints": 12, "earnedPoints": 0},
-    {"category": "hairdresser", "store": "Hair de rien", "subscribed": "false", "numberOfPoints": 12, "earnedPoints": 0},
-    {"category": "hairdresser", "store": "Hair de rien", "subscribed": "false", "numberOfPoints": 12, "earnedPoints": 0}
+    {"category": "restaurant", "store": "Pizza Gourmet", "subscribed": "false", "numberOfPoints": 9, "earnedPoints": 0},
+    {"category": "hairdresser", "store": "Hair coiffure", "subscribed": "false", "numberOfPoints": 10, "earnedPoints": 0},
+    {"category": "florist", "store": "Kaloupile", "subscribed": "false", "numberOfPoints": 8, "earnedPoints": 0},
+    {"category": "restaurant", "store": "Max Kebab", "subscribed": "false", "numberOfPoints": 8, "earnedPoints": 0},
+    {"category": "drugstore", "store": "Pharma Godefroy", "subscribed": "false", "numberOfPoints": 8, "earnedPoints": 0},
   ]
 }
