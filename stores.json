@@ -1,12 +1,13 @@
 {"stores":
   [
-    {"id":1,"category":"restaurant","store":"Dwich","numberOfPoints":7},
+    {"id":1,"category":"restaurant","store":"Dwich","numberOfPoints":10},
     {"id":2,"category":"restaurant","store":"La Pateterie","numberOfPoints":8},
     {"id":3,"category": "restaurant", "store":"Pizza Gourmet","numberOfPoints": 9},
     {"id":5,"category": "hairdresser", "store":"Hair de rien","numberOfPoints": 12},
     {"id":4,"category": "hairdresser", "store":"Hair coiffure","numberOfPoints": 10},
     {"id":6,"category": "florist", "store": "Kaloupile","numberOfPoints": 8},
     {"id":7,"category": "restaurant", "store": "Max Kebab","numberOfPoints": 8},
-    {"id":8,"category": "drugstore", "store": "Pharma Godefroy","numberOfPoints": 8}
+    {"id":8,"category": "drugstore", "store": "Pharma Godefroy","numberOfPoints": 8},
+    {"id":9,"category": "drugstore", "store": "Pharma Arras","numberOfPoints": 10}
   ]
 }
