@@ -5,10 +5,11 @@
     {"id":3,"category": "restaurant", "store":"Pizza Gourmet","numberOfPoints": 9,"removed":"false","spending":0,"reward":"une pizza"},
     {"id":5,"category": "hairdresser", "store":"Hair de rien","numberOfPoints": 10,"removed":"false","spending":0,"reward":"un shampoing"},
     {"id":4,"category": "hairdresser", "store":"Hair coiffure","numberOfPoints": 12,"removed":"false","spending":0,"reward":"une manucure"},
-    {"id":6,"category": "florist", "store": "Kaloupile","numberOfPoints": 14,"removed":"false","spending":2,"reward":"10% sur votre prochain achat"},
+    {"id":6,"category": "florist", "store": "Kaloupile","numberOfPoints": 8,"removed":"false","spending":10,"reward":"50% sur votre prochain achat"},
     {"id":7,"category": "restaurant", "store": "Max Kebab","numberOfPoints": 16,"removed":"true","spending":0,"reward":"une formule"},
     {"id":8,"category": "drugstore", "store": "Pharma Godefroy","numberOfPoints": 18,"removed":"false","spending":10,"reward":"5% sur votre prochain achat"},
     {"id":9,"category": "drugstore", "store": "Pharma Arras","numberOfPoints": 19,"removed":"false","spending":0,"reward":"5% sur un article parapharmacie"},
-    {"id":10,"category": "drugstore", "store": "Pharma Poitiers","numberOfPoints": 20,"removed":"false","spending":0,"reward":"un gel douche"}
+    {"id":10,"category": "drugstore", "store": "Pharma Poitiers","numberOfPoints": 20,"removed":"false","spending":0,"reward":"un gel douche"},
+    {"id":11,"category": "florist", "store": "So Végétal","numberOfPoints": 12,"removed":"false","spending":0,"reward":"10€ de réduction"}
   ]
 }
