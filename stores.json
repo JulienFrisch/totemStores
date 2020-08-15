@@ -10,6 +10,6 @@
     {"id":8,"category": "restaurant", "store": "Max Kebab le meilleur kebeb du monde toi meme tu sais","numberOfPoints": 16,"removed":"false","spending":0,"reward":"une formule"},
     {"id":9,"category": "drugstore", "store": "Pharma Godefroy","numberOfPoints": 18,"removed":"false","spending":10,"reward":"5% sur votre prochain achat"},
     {"id":10,"category": "drugstore", "store": "Pharma Arras","numberOfPoints": 19,"removed":"false","spending":0,"reward":"5% sur un article parapharmacie"},
-    {"id":11,"category": "drugstore", "store": "Pharma Poitiers","numberOfPoints": 20,"removed":"false","spending":0,"reward":"un gel douche"}
+    {"id":11,"category": "other", "store": "epicerie Poitiers","numberOfPoints": 20,"removed":"false","spending":0,"reward":"un gel douche"}
   ]
 }
