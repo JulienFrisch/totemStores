@@ -7,7 +7,7 @@
     {"id":4,"category": "hairdresser", "store":"Hair coiffure","numberOfPoints": 12,"removed":"false","spending":0,"reward":"une manucure"},
     {"id":6,"category": "florist", "store": "Kaloupile","numberOfPoints": 12,"removed":"false","spending":10,"reward":"50% sur votre prochain achat"},
     {"id":7,"category": "florist", "store": "So Végétal","numberOfPoints": 12,"removed":"false","spending":0,"reward":"10€ de réduction"},
-    {"id":8,"category": "restaurant", "store": "Max Kebab","numberOfPoints": 16,"removed":"true","spending":0,"reward":"une formule"},
+    {"id":8,"category": "restaurant", "store": "Max Kebab le meilleur kebeb du monde toi meme tu sais","numberOfPoints": 16,"removed":"true","spending":0,"reward":"une formule"},
     {"id":9,"category": "drugstore", "store": "Pharma Godefroy","numberOfPoints": 18,"removed":"false","spending":10,"reward":"5% sur votre prochain achat"},
     {"id":10,"category": "drugstore", "store": "Pharma Arras","numberOfPoints": 19,"removed":"false","spending":0,"reward":"5% sur un article parapharmacie"},
     {"id":11,"category": "drugstore", "store": "Pharma Poitiers","numberOfPoints": 20,"removed":"false","spending":0,"reward":"un gel douche"}
